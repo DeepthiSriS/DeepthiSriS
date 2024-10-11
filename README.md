@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DeepthiSriS
+- 👋 Hi, I’m @DeepthiSri
 - 👀 I’m interested in use of data across various sectors..
 - 🌱 I’m currently learning how to solve data quality issues.
 - 💞️ I’m looking to collaborate on innovative uses of data in business analytics.
